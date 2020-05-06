@@ -35,3 +35,6 @@ pip3 install -U pyobjc
 ```
 I have not tested myself as I don't own a mac, but it was tested and documented in this issue : https://github.com/drov0/python-imagesearch/issues/5
 
+# My Notes
+
+Bounding box around images: https://stackoverflow.com/questions/56604151/python-extract-multiple-objects-from-image-opencv
